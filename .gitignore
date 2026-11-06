@@ -1,0 +1,4 @@
+_src/*
+!_src/shots.py
+!_src/obrazy.py
+__pycache__/
