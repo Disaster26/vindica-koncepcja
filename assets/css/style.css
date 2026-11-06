@@ -261,3 +261,5 @@ p{margin:0 0 1em}
   .mob .mob-cta{background:var(--granat);color:#fff}
 }
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+.kontakt{padding-bottom:0}
+.logo-bialy img{background:#fff;padding:5px 6px;box-sizing:content-box}
